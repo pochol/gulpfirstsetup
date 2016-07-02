@@ -25,6 +25,7 @@
     "gulp-imagemin": "^3.0.1",
     "gulp-uglify": "^1.5.4",
     "gulp-useref": "^3.1.0",
-    "run-sequence": "^1.2.2"
+    "run-sequence": "^1.2.2",
+    "gulp-sass": "3.8.2"
   }
 }
